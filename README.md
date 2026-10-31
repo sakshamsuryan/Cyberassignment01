@@ -14,7 +14,6 @@
 ## How to Run Locally
 
 ```bash
-git clone [https://github.com/shubhamkrmu/Phishguard.git](https://github.com/shubhamkrmu/Phishguard.git)
 cd Phishguard
 pip install -r requirements.txt
 streamlit run app.py

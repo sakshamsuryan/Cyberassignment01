@@ -10,10 +10,3 @@
 * **Network & Domain Checks:** Requests, BeautifulSoup4, python-whois, tldextract
 * **Database:** SQLite3
 * **Hosting:** Render
-
-## How to Run Locally
-
-```bash
-cd Phishguard
-pip install -r requirements.txt
-streamlit run app.py
